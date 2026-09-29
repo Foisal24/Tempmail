@@ -6,7 +6,7 @@ import random
 from telebot import types
 
 # এখানে আপনার Bot Token দিন
-API_TOKEN = 'YOUR_BOT_TOKEN_HERE'
+API_TOKEN = '8639179377:AAHlTxPL8tTpU9HnycAJKd9CsGQF-IFvPS0'
 bot = telebot.TeleBot(API_TOKEN)
 
 # 1secmail API ডোমেইন লিস্ট
